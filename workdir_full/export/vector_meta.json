@@ -1,0 +1,6 @@
+{
+  "backend": "hnsw",
+  "dim": 768,
+  "n": 20623,
+  "embed_model_name": "intfloat/multilingual-e5-base"
+}
